@@ -1,0 +1,42 @@
+body {
+  background-color: #fff;
+  color: #fff;
+  text-align: center;
+  padding-top: 10px; 
+}
+
+h1 {
+  text-align: center;
+  color: black;
+  text-shadow: 0 0 2px #323332;
+  line-height: 3;
+}
+
+input {
+  padding: 10px;
+  border: 0px;
+  border-radius: 5px;
+  margin-top: 10px;
+  font-size: 10px;
+  text-align: left;
+  color: black;
+}
+
+nav div ul li a {
+  font-size: 19px;
+  color: black;
+}
+
+div#chatterbox {
+  border-radius: 10px;
+  min-width: 240px;
+  max-width: 512px;
+  padding: 1.5em;
+  margin: 0 auto 1em;
+  margin: 0 auto;
+  text-align: center;
+  padding: 10px 45px 25px 45px;
+  max-width: 300px;
+  text-align: center;
+  background-color: #517fa4;
+}
